@@ -1,0 +1,433 @@
+<flowersXML>
+
+<flower>1
+	<title>Grass</title>
+	<song>
+		   <title>Praeludium One</title>
+		  <artist>My Friend Loren
+		          Tone Poem #1</artist>
+		<composer>J.S. Bach - 1720</composer>
+		<producer>Red Dress Productions
+				  and Tiny Dancer Studios - 2008</producer>
+	</song>
+	<image>
+		   <title>The Palouse</title>
+		  <artist>purestock@getty images</artist>
+		  <medium>a photograph</medium>
+		  <source>Bible Verses - 2009 16 month calendar
+		          Joyfully Yours by Dayspring </source>
+	</image>
+	<text>
+		   <title>From The Talmud</title>
+		  <author>Unknown</author>
+		  <source>The Artist's Way by Julia Cameron - 1992</source>
+	</text>
+</flower>
+
+<flower>2
+	<title>Iris</title>
+	<song>
+		   <title>Somewhere Over the Rainbow</title>
+		  <artist>My Friend Loren
+		          Tone Poem #1</artist>
+		<composer>Harold Arlen - 1938</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios</producer>
+	</song>
+	<image>
+		   <title>Life is Beautiful</title>
+		  <artist>Marie Soderland - 1999</artist>
+		  <medium>Watercolor</medium>
+		  <source>Santa Clara Arts and Wine Festival</source>
+	</image>
+	<text>
+		   <title>Soul and Tears</title>
+		  <author>Laurel Burch - 2005</author>
+		  <source>paperblanks</source>
+	</text>
+</flower>
+
+<flower>3
+	<title>Baby's Breath</title>
+	<song>
+		   <title>Her Wonderous March down the I'll</title>
+		  <artist>My Friend Loren
+		          Tone Poem #2</artist>
+		<composer>L. Mohler</composer>
+		<producer>Red Dress Productions
+				  and Tiny Dancer Studios - 2009</producer>
+	</song>
+	<image>
+		   <title>I Can See You</title>
+		  <artist>unknown</artist>
+		  <medium>a photograph</medium>
+		  <source>a greeting card, credits lost</source>
+	</image>
+	<text>
+		   <title>Tranqility, page 63</title>
+		  <author>David Baird</author>
+		  <source>A Thousand Paths to Tranquility - 2000</source>
+	</text>
+</flower>
+
+<flower>4
+	<title>Water Lilly</title>
+	<song>
+		   <title>Born to Be Mild</title>
+		  <artist>My Friend Loren
+		          Tone Poem #1</artist>
+		<composer>L. Mohler</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios</producer>
+	</song>
+	<image>
+		   <title>Lady of the Lake</title>
+		  <artist>Micah Brandt</artist>
+		  <medium>Acrylic on Matte Board</medium>
+		  <source>Private Collection, Eugene, Or</source>
+	</image>
+	<text>
+		   <title>Becoming Unbecoming Behaviour For a Lady</title>
+		  <author>L. Mohler</author>
+		  <source>Party Pysics - 2010</source>
+	</text>
+</flower>
+
+<flower>5
+	<title>Honeysuckle</title>
+	<song>
+		   <title>Gnoissiene #3</title>
+		  <artist>My Friend Loren
+		          Tone Poem #1</artist>
+		<composer>Erik Satie - 1890</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios</producer>
+	</song>
+	<image>
+		   <title>Hard Day's Night</title>
+		  <artist>Mary Padgett Moore</artist>
+		  <medium>Oil Paint on Canvas</medium>
+		  <source>Private Collection, Eugene, Or</source>
+	</image>
+	<text>
+		   <title>Heisinger's Certainty Principle</title>
+		  <author>L. Mohler</author>
+		  <source>Party Pysics - 2010</source>
+	</text>
+</flower>
+
+<flower>6
+	<title>Cat Tail</title>
+	<song>
+		   <title>A Christmas Wrong</title>
+		  <artist>My Friend Loren
+		          Tone Poem #2</artist>
+		<composer>L. Mohler - 1978</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios</producer>
+	</song>
+	<image>
+		   <title>Moon Dance - 1985</title>
+		  <artist>S.M. Yurij</artist>
+		  <medium>Silk Screen Print</medium>
+		  <source>Santa Clara Arts and Wine Festival</source>
+	</image>
+	<text>
+		   <title>Tranquility - Page 313</title>
+		  <author>David Baird</author>
+		  <source>A Thousand Paths to Tranquility - 2000</source>
+	</text>
+</flower>
+
+<flower>7
+	<title>Impatiens</title>
+	<song>
+		   <title>Falling in Love Again</title>
+		  <artist>My Friend Loren</artist>
+		<composer>Frederick Hollander - 1930</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios - 2009</producer>
+	</song>
+	<image>
+		   <title>First Fall</title>
+		  <artist>K. Hatt</artist>
+		  <medium>Photograph</medium>
+		  <source>Sunrise Greetings - 2002</source>
+	</image>
+	<text>
+		   <title>Ahh! The Wild Joys of Living</title>
+		  <author>L. Mohler</author>
+		  <source>Party Physics - 2010</source>
+	</text>
+</flower>
+
+<flower>8
+	<title>Coastal Redwoods</title>
+	<song>
+		   <title>Side By Side</title>
+		  <artist>My Friend Loren</artist>
+		<composer>Harry M. Woods - 1927</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios - 2010</producer>
+	</song>
+	<image>
+		   <title>Old Friends</title>
+		  <artist>L. Mohler</artist>
+		  <medium>Postcard and Photoshop</medium>
+		  <source>Hotel Lobby, La Quinta, Eugene</source>
+	</image>
+	<text>
+		   <title>Friendship</title>
+		  <author>Woodrow Wilson</author>
+		  <source>Friend,  A Helen Exley Giftbook - 2003</source>
+	</text>
+</flower>
+
+<flower>9
+	<title>Sunflower</title>
+	<song>
+		   <title>Teddy Bear</title>
+		  <artist>My Friend Loren</artist>
+		<composer>L. Mohler - 1982</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios - 2010</producer>
+	</song>
+	<image>
+		   <title>Seize the Day!</title>
+		  <artist>Lorraine Demicourt -1995</artist>
+		  <medium>Photography</medium>
+		  <source>Birthday Card
+		  Avanti Press Inc.- Detroit, Mi 48231</source>
+	</image>
+	<text>
+		   <title>Quote</title>
+		  <author>Walt Whitman -1819-1892</author>
+		  <source>The Quiet Eye - A Way of Looking at Pictures
+		  Slyvia Shaw Judson - 1954</source>
+	</text>
+</flower>
+
+<flower>10
+	<title>Bird of Paradise</title>
+	<song>
+		   <title>Imagine</title>
+		  <artist>My Friend Loren</artist>
+		<composer>John Lennon - 1971</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios - 2010</producer>
+	</song>
+	<image>
+		   <title>Reassurrance</title>
+		  <artist>Vince Carl-2006</artist>
+		  <medium>Charcoal, Acrylic, & Gold Leaf on canvas</medium>
+		  <source>vcarlgallery.com/gallery/'06</source>
+	</image>
+	<text>
+		   <title>Little Known Fact</title>
+		  <author>Loren M. Mohler</author>
+		  <source>Pajamas Are The Devil's Workshop - 2008</source>
+	</text>
+</flower>
+
+<flower>11
+	<title>Sunlight</title>
+	<song>
+		   <title>Amazing Grace</title>
+		  <artist>My Friend Loren</artist>
+		<composer>John Newton 1779</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios - 2010</producer>
+	</song>
+	<image>
+		   <title>Spring Sings</title>
+		  <artist>Loren Mohler</artist>
+		  <medium>Photoshop</medium>
+		  <source>Keukenhof Park, Lisse, South Holland - Spring 2011</source>
+	</image>
+	<text>
+		   <title>Enough Words</title>
+		  <author>Rumi</author>
+		  <source>The Essential Rumi, Coleman Barks, Harper Collins-1995</source>
+	</text>
+</flower>
+
+<flower>12
+	<title>Serviceberry</title>
+	<song>
+		   <title>Fig Newton's Second Law of Thermal Gymnastics</title>
+		  <artist>My Friend Loren</artist>
+		<composer>L. Mohler</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios - 2011</producer>
+	</song>
+	<image>
+		   <title>Play Ball</title>
+		  <artist>Loren Mohler</artist>
+		  <medium>Photoshop</medium>
+		  <source>Google via Facebook</source>
+	</image>
+	<text>
+		   <title>A Great Wagon</title>
+		  <author>Rumi</author>
+		  <source>The Essential Rumi, Coleman Barks, Harper Collins - 1995</source>
+	</text>
+</flower>
+
+<flower>13
+	<title>Passionflower</title>
+	<song>
+		   <title>My Lessons </title>
+		  <artist>My Friend Loren</artist>
+		<composer>L. Mohler</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios - 2011</producer>
+	</song>
+	<image>
+		   <title>Mary Magdalen with Pyx, In Crowd, Hard Day’s Night, Moondance</title>
+		  <artist>P.D.Frasure, Unknown, Mary Padget Moore, S. M. Yaki</artist>
+		  <medium>Acrylic, Mixed Media, Oil, Silk Screen, Photoshop</medium>
+		  <source>New Zone Gallery, Eugene OR.</source>
+	</image>
+	<text>
+		   <title>Solomon to Sheba - excerpt</title>
+		  <author>Rumi</author>
+		  <source>The Essential Rumi, Coleman Barks, Harper Collins - 1995</source>
+	</text>
+</flower>
+
+
+<flower>14
+	<title>Purple Knight</title>
+	<song>
+		   <title>Morning of The 2nd Way </title>
+		  <artist>My Friend Loren</artist>
+		<composer>L. Mohler</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios - 2011</producer>
+	</song>
+	<image>
+		   <title>Bark Bay</title>
+		  <artist>L. Mohler</artist>
+		  <medium>Digital Photography and Photoshop</medium>
+		  <source>Eugene, Oregon</source>
+	</image>
+	<text>
+		   <title>Day 335</title>
+		  <author>Spencer Johnson M.D.</author>
+		  <source>Meditations from the Mat, Rolf Gates, Anchor Books - 2002</source>
+	</text>
+</flower>
+
+<flower>15
+	<title>Naked Ladies</title>
+	<song>
+		   <title>Klavierstuck WoO 59</title>
+		  <artist>My Friend Loren</artist>
+		<composer>Ludwig van Beethoven</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios - 2011</producer>
+	</song>
+	<image>
+		   <title>These Are a Few of My Favorite Things</title>
+		  <artist>L. Mohler</artist>
+		  <medium>Digital Photography and Photoshop</medium>
+		  <source>Facebook</source>
+	</image>
+	<text>
+		   <title>Day 150</title>
+		  <author>Rumi</author>
+		  <source>Meditations from the Mat, Rolf Gates, Anchor Books - 2002</source>
+	</text>
+</flower>
+
+<flower>16
+	<title>Harry Lauder Walking Stick</title>
+	<song>
+		   <title>I Can Crawl</title>
+		  <artist>My Friend Loren</artist>
+		<composer>L. Mohler</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios - 2012</producer>
+	</song>
+	<image>
+		   <title>I of The, Beholder</title>
+		  <artist>L. Mohler</artist>
+		  <medium>Yarn on Needles/Acrylic on Canvas/Digital
+                  Photography/Photoshop</medium>
+		  <source>My Closet & The www.</source>
+	</image>
+	<text>
+		   <title>Doubt</title>
+		  <author>Voltaire</author>
+		  <source>Daily meditation calendar @ my friendly
+             	neighborhood yoga studio.</source>
+	</text>
+</flower>
+
+<flower>17
+	<title>Tulips</title>
+	<song>
+		   <title>PlainsTalk</title>
+		  <artist>My Friend Loren</artist>
+		<composer>L. Mohler</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios - 2013</producer>
+	</song>
+	<image>
+		   <title>The Best Hands in Town</title>
+		  <artist>Loren Mohler and Deb Ingebretsen</artist>
+		  <medium>Photography and Photoshop</medium>
+		  <source>ingebretsenimages.com</source>
+	</image>
+	<text>
+		   <title>Truth</title>
+		  <author>L. Mohler</author>
+		  <source>personal writings</source>
+	</text>
+</flower>
+
+<flower>18
+	<title>Hummingbird</title>
+	<song>
+		   <title>Meditation #3</title>
+		  <artist>My Friend Loren</artist>
+		<composer>Erik Satie</composer>
+		<producer>Red Dress Productions
+		 		  and Tiny Dancer Studios - 2013</producer>
+	</song>
+	<image>
+		   <title>The Tree of Good and EverBetter</title>
+		  <artist>Loren Mohler</artist>
+		  <medium>Photography and Photoshop</medium>
+		  <source>The Japanese Gardens, Portland, OR</source>
+	</image>
+	<text>
+		   <title>Me being Seeing</title>
+		  <author>L. Mohler</author>
+		  <source>early AM musings while riding my stationary bicycle</source>
+	</text>
+</flower>
+
+<flower>18
+<title>Birdbath</title>
+<song>
+<title>Portrait of the Artist’s Mother</title>
+<artist>My Friend Loren</artist>
+<composer>L. Mohler</composer>
+<producer>Red Dress Productions
+and Tiny Dancer Studios - 2014</producer>
+</song>
+<image>
+<title>Reflection</title>
+<artist>Unknown</artist>
+<medium>Photography and Photoshop</medium>
+<source>Facebook</source>
+</image>
+<text>
+<title>Equation</title>
+<author>Loren M. Mohler - 2016</author>
+<source>Personal Journal - 2016</source>
+</text>
+</flower>
+
+</flowersXML>
