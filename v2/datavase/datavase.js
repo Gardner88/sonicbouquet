@@ -388,15 +388,15 @@ var datavase = {
             "producer": "Red Dress Productions\nand Tiny Dancer Studios - 2014"
         },
         "image": {
-            "title": "Reflection",
-            "artist": "Unknown",
+            "title": "Bathing Beauties",
+            "artist": "Loren Mohler",
             "medium": "Photography and Photoshop",
             "source": "Facebook"
         },
         "text": {
             "title": "Equation",
             "author": "Loren M. Mohler - 2016",
-            "source": "Personal Journal - 2016"
+            "source": "Personal Gratitude Journal - 2016"
         }
     },
 }
