@@ -1,8 +1,29 @@
+
+//////
+
+NodeList.prototype.forEach = Array.prototype.forEach
+
+function addClass(el, className) {
+    el.className += ' ' + className
+}
+
+function removeClass(el, className) {
+    el.className = el.className
+        .replace(
+            new RegExp('(^|\\b)' + className.split(' ').join('|') + '(\\b|$)', 'gi'),
+            ' '
+        )
+}
+
+function hasClass(el, className) {
+    new RegExp('(^| )' + className + '( |$)', 'gi').test(el.className)
+}
+
+/////
+
 var index
 var len = Object.keys(datavase).length
 var audio = new Audio()
-
-NodeList.prototype.forEach = Array.prototype.forEach
 
 function chooseNumber() {
     return Math.floor(Math.random() * len) + 1
@@ -50,9 +71,9 @@ function updateInfoPanel(index) {
 function updateDatavaseSelected(index) {
     var li = document.getElementById('dv-' + index)
     document.querySelectorAll('.datavase-pane li').forEach(function(node) {
-        node.classList.remove('selected')
+        removeClass(node, 'selected')
     })
-    li.classList.add('selected')
+    addClass(li, 'selected')
 }
 
 function updateMusic(index) {
@@ -87,18 +108,18 @@ function togglePanel(e) {
     var anchor = e.currentTarget
     var panelName = anchor.dataset.panel
     var panel = document.querySelector('.' + panelName + '-pane')
-    var opened = panel.classList.contains('selected')
+    var opened = hasClass(panel, 'selected')
     document.querySelectorAll('.pane').forEach(function (node) {
-        node.classList.remove('selected')
+        removeClass(node, 'selected')
     })
-    if(!opened) { panel.classList.add('selected') }
+    if(!opened) { addClass(panel, 'selected') }
 }
 
 function closePanel(e) {
     e.preventDefault()
     var anchor = e.currentTarget
     var panel = anchor.parentNode
-    panel.classList.remove('selected')
+    removeClass(panel, 'selected')
 }
 
 function changeFlower(e) {
