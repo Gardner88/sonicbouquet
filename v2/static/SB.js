@@ -78,7 +78,9 @@ function updateDatavaseSelected(index) {
 
 function updateMusic(index) {
     audio.pause()
-    audio.currentTime = 0
+    if (audio.currentTime !== 0) {
+        audio.currentTime = 0
+    }
     audio.src = 'datavase/SB' + index + '.mp3'
     audio.play()
 }
